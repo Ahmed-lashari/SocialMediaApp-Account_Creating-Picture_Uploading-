@@ -1,30 +1,47 @@
-# Repository Description:
+# Social Media App
 
-Welcome to the Social Media App repository! This repository hosts the source code for an object-oriented programming (OOP) based application developed by Muhammad Ahmed Lashari and Arsam Ali. The project is an exploration of OOP principles and technologies, with a focus on creating a social media platform where users can interact with each other.
+## Overview:
+Welcome to the Social Media App repository! This project, developed by Muhammad Ahmed Lashari and Arsam Ali, is an object-oriented programming (OOP) based application designed for social interaction. Although initially aimed at enabling users to create accounts and chat with each other, certain features were adjusted due to time constraints.
 
-## Key Features:
+## Project Overview:
+This application, developed as part of an OOP-based project, covers various pillars of object-oriented programming, including:
+- Constructors/Destructors
+- Setter/Getter methods
+- Encapsulation
+- Inheritance
+- Header Files
+- Dynamic memory management and deallocation
+- Operator Overloading
+- Friend Functions
+- File Handling
 
-1. Account Creation: Users can create their accounts to access the platform.
-2. Basic Chat Functionality: Initially planned but deferred due to time constraints.
-3. OOP Pillars Implementation: The project extensively covers various OOP pillars including constructors/destructors, setter/getter methods, encapsulation, inheritance, and more.
-4. Technologies Utilized: The application leverages additional technologies such as the QT Framework and its Libraries for user interface development and SQLite Database integration for data management.
-5. Potential Additional Features: While the initial scope was limited, future iterations of the project could include features like texting among users, admin login for user management, and account deletion functionality.
+## Additional Technologies:
+In addition to OOP principles, the project also involved learning and implementing additional technologies such as:
+- QT Framework and its Libraries
+- SQLite Database integration for Create, Read, and Update functionalities
 
-# How to Use:
+## Features:
+While the initial scope of the project focused on account creation and chatting functionalities, further features that can be incorporated include:
+- Texting among users
+- Admin login for user management
+- Delete operation for user accounts
 
-To use the Social Media App:
+## Contributors:
+- Muhammad Ahmed Lashari
+- Arsam Ali
 
+## How to Use:
+To utilize this application, follow these steps:
 1. Clone the repository to your local machine.
-2. Install any necessary dependencies mentioned in the README file.
-3. Compile and run the application according to the provided instructions.
-4. Explore the available functionalities and interact with the application.
+2. Install any necessary dependencies (if not already included).
+3. Compile and run the application.
+4. Explore the available functionalities.
 
-## Contributions:
+## Feedback and Contributions:
+We welcome feedback and contributions from the community to enhance this project further. Feel free to submit pull requests, open issues, or reach out to us with any suggestions or improvements.
 
-Contributions to this project are welcome! Whether it's bug fixes, feature enhancements, or general improvements, we encourage community participation. Please refer to the README file for guidelines on contributing.
+## Contributors:
+1. Arsam Ali
+2. Muhammad Ahmed Lashari
 
-# Feedback:
-
-Feedback from users and contributors is highly valued. If you have any suggestions, encounter issues, or wish to provide feedback on the project, please don't hesitate to reach out to us through the repository's communication channels.
-
-Thank you for your interest in the Social Media App repository! We hope you find the project informative and engaging.
+Thank you for visiting our Social Media App repository! We hope you find it informative and valuable.
