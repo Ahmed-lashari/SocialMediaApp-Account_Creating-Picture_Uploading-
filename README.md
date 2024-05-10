@@ -4,11 +4,16 @@ Welcome to the Social Media App repository! This repository hosts the source cod
 
 Key Features:
 
-## Account Creation: Users can create their accounts to access the platform.
-## Basic Chat Functionality: Initially planned but deferred due to time constraints.
-## OOP Pillars Implementation: The project extensively covers various OOP pillars including constructors/destructors, setter/getter methods, encapsulation, inheritance, and more.
-## Technologies Utilized: The application leverages additional technologies such as the QT Framework and its Libraries for user interface development and SQLite Database integration for data management.
-## Potential Additional Features: While the initial scope was limited, future iterations of the project could include features like texting among users, admin login for user management, and account deletion functionality.
+## Account Creation: 
+  Users can create their accounts to access the platform.
+## Basic Chat Functionality: 
+  Initially planned but deferred due to time constraints.
+## OOP Pillars Implementation: 
+  The project extensively covers various OOP pillars including constructors/destructors, setter/getter methods, encapsulation, inheritance, and more.
+## Technologies Utilized: 
+  The application leverages additional technologies such as the QT Framework and its Libraries for user interface development and SQLite Database integration for data management.
+## Potential Additional Features: 
+  While the initial scope was limited, future iterations of the project could include features like texting among users, admin login for user management, and account deletion functionality.
 
 # How to Use:
 
