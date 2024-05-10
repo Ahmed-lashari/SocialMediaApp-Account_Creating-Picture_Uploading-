@@ -20,8 +20,8 @@ In addition to OOP principles, the project also involved learning and implementi
 - QT Framework and its Libraries
 - SQLite Database integration for Create, Read, and Update functionalities
 
-## Features:
-While the initial scope of the project focused on account creation and chatting functionalities, further features that can be incorporated include:
+## Remaining Features:
+While the initial scope of the project focused on account creation and chatting functionalities, further features that can be incorporated are:
 - Texting among users
 - Admin login for user management
 - Delete operation for user accounts
@@ -40,8 +40,5 @@ To utilize this application, follow these steps:
 ## Feedback and Contributions:
 We welcome feedback and contributions from the community to enhance this project further. Feel free to submit pull requests, open issues, or reach out to us with any suggestions or improvements.
 
-## Contributors:
-1. Arsam Ali
-2. Muhammad Ahmed Lashari
 
 Thank you for visiting our Social Media App repository! We hope you find it informative and valuable.
